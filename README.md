@@ -9,12 +9,7 @@
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Profile Views Counter with Style -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=chouaibhakim76-ui&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/chouaibhakim76-ui?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/github/stars/chouaibhakim76-ui?label=Stars&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="stars" />
-</p>
+
 
 <!-- Animated Connect Section -->
 <h2>
