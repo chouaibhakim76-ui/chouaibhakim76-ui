@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0a192f&height=200&section=header&text=Chouaib%20Hakim&fontSize=58&fontColor=ffffff&stroke=00D9FF&strokeWidth=2&animation=twinkling&fontAlignY=48"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Chouaib%20Hakim&fontSize=55&fontColor=E6EDF3&animation=twinkling&fontAlignY=48"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
