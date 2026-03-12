@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=180&section=header&text=Chouaib%20Hakim&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0a192f&height=200&section=header&text=Chouaib%20Hakim&fontSize=58&fontColor=ffffff&stroke=00D9FF&strokeWidth=2&animation=twinkling&fontAlignY=48"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -67,21 +67,8 @@
 
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chouaibhakim76-ui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=00d9ff" alt="GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouaibhakim76-ui&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&border_color=00d9ff" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ CONTRIBUTIONS ═══════════════════ -->
-## 📅 Yearly Contributions
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
